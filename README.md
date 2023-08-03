@@ -1,6 +1,6 @@
 - 👋 Hey there, my name is Dominik Vágner! 
 - 🧑‍🎓 I’m currently studying at Faculty of Informatics at Masaryk's University (MUNI) in Brno.
-- 💻 Interning at Red Hat, Software Engineer.
+- 💻 Interning at Red Hat as a Software Engineer.
 - 📫 How to reach me: https://www.linkedin.com/in/d-vagner/
 
 <!---
